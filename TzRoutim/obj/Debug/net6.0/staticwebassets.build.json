@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xW9zOeswzI9Qj74Q4ftk+HTDMWV5mzFccXyH5j2P1A4=",
+  "Source": "TzRoutim",
+  "BasePath": "_content/TzRoutim",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TzRoutim\\wwwroot",
+      "Source": "TzRoutim",
+      "ContentRoot": "C:\\Users\\dw\\Desktop\\Портфолио\\Практика\\TzRoutim\\wwwroot\\",
+      "BasePath": "_content/TzRoutim",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dw\\Desktop\\Портфолио\\Практика\\TzRoutim\\wwwroot\\js\\script.js",
+      "SourceId": "TzRoutim",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dw\\Desktop\\Портфолио\\Практика\\TzRoutim\\wwwroot\\",
+      "BasePath": "_content/TzRoutim",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}
